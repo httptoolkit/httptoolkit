@@ -1,7 +1,7 @@
 # HTTP Toolkit
  ![100% open-source](https://img.shields.io/badge/open--source-100%25-%23999?style=flat-square) ![Desktop downloads counter](https://img.shields.io/github/downloads/httptoolkit/httptoolkit-desktop/total?style=flat-square) [![Open feature suggestions](https://img.shields.io/github/issues/httptoolkit/httptoolkit?label=feature%20suggestions&style=flat-square)](https://github.com/httptoolkit/httptoolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) [![Follow @httptoolkit on Twitter](https://img.shields.io/twitter/follow/httptoolkit?color=%234c1&style=flat-square)](https://twitter.com/httptoolkit)
 
-HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac.
+HTTP Toolkit is a tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac.
 
 You can use it to intercept, inspect & rewrite HTTP(S) traffic, from everything to anywhere. Explore Android app traffic, mock requests between your microservices, and x-ray your browser traffic to debug, understand and test anything.
 
@@ -10,7 +10,7 @@ You can use it to intercept, inspect & rewrite HTTP(S) traffic, from everything 
 With HTTP Toolkit, you can:
 
 * Instantly intercept browsers, most backend & scripting languages (from Node.js to PHP), Android devices, Electron apps and more with **one-click setup**.
-* Collect traffic without intercepting everything on your whole machine, so there's no extra noise and no side-effects - just the traffic you care about.
+* Collect interesting traffic without intercepting everything on your whole machine, so there's no extra noise and no side-effects - just the traffic you care about.
 * Inspect the full headers & body for every request & response from every client, to immediately see what's really being sent & received on the wire.
 * **Easily understand collected HTTP traffic**, with inline documentation for all standard headers & responses statuses, plus body decoding, highlighting, folding, and other nicities, powered by the same internals as Visual Studio Code.
 * Quickly find the data you care about, with exchanges highlighted by client and tagged by category (images, JSON responses, errors), and free-text search across all request & response metadata.
@@ -30,13 +30,13 @@ Would you like to help design the perfect HTTP debugging tool? Take a look throu
 
 Want to go further, and make changes directly? There's a lot you can get involved with, and **all contributors get free HTTP Toolkit Pro** (more background on this [over here](https://httptoolkit.tech/blog/free-as-in-beer)).
 
-That includes code contributions, but documentation improvements, article & blog posts elsewhere about the project, bug & security reports, and anything else that helps drive HTTP Toolkit forwards. The goal is to reward anything that helps drive HTTP Toolkit development or bring it to new people. To get your subscription, [get in touch](https://httptoolkit.tech/contact) once you've made your contribution, with the email you'd like associated with your account. Feel free to get in touch with any other questions about this too.
+That includes code contributions, but documentation improvements, article & blog posts elsewhere about the project, bug & security reports, and anything else that helps drive HTTP Toolkit forwards. The goal is to reward anything that helps drive HTTP Toolkit development or bring it to new people. To claim your Pro account, [get in touch](https://httptoolkit.tech/contact) once you've made your contribution, with the email you'd like associated with your account. Feel free to get in touch with any other questions about this too.
 
 ### Where to start
 
 This [github organization](https://github.com/httptoolkit) contains the entire project.
 
-Yes, even the account management servers, even the paid features, _everything_. All of that is open source, licensed as a mixture of copyleft AGPL (for the HTTP Toolkit-specific components, ensuring all direct derivative projects are open-source too) and very relaxed Apache-2/MIT licenses (for all the general-purpose reusable libraries).
+Yes, even the account management servers, even the paid features, _everything_. All of that is open source, licensed as a mixture of copyleft AGPL (for the HTTP Toolkit-specific components, ensuring all direct derivative projects are open-source too) and permissive Apache-2/MIT licenses (for all the general-purpose reusable libraries).
 
 The main repos you might be interested in are:
 
