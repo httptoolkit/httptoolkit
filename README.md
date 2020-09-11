@@ -1,7 +1,7 @@
 # HTTP Toolkit
  ![100% open-source](https://img.shields.io/badge/open--source-100%25-%23999?style=flat-square) ![Desktop downloads counter](https://img.shields.io/github/downloads/httptoolkit/httptoolkit-desktop/total?style=flat-square) [![Open feature suggestions](https://img.shields.io/github/issues/httptoolkit/httptoolkit?label=feature%20suggestions&style=flat-square)](https://github.com/httptoolkit/httptoolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) [![Follow @httptoolkit on Twitter](https://img.shields.io/twitter/follow/httptoolkit?color=%234c1&style=flat-square)](https://twitter.com/httptoolkit)
 
-HTTP Toolkit is a tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac.
+[HTTP Toolkit](https://httptoolkit.tech) is a tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac.
 
 You can use it to intercept, inspect & rewrite HTTP(S) traffic, from everything to anywhere. Explore Android app traffic, mock requests between your microservices, and x-ray your browser traffic to debug, understand and test anything.
 
@@ -18,7 +18,13 @@ With HTTP Toolkit, you can:
 * **Mock endpoints or servers**, with a flexible rule configurations to match and handle requests automatically, to send responses, inject failures & timeouts, or transparently redirect requests elsewhere.
 * Intercept _any_ HTTP traffic: **HTTP Tookit is a transparent HTTP proxy**, and can intercept plain HTTP, encrypted HTTP(S), HTTP/2, proxy requests, direct requests, manually redirected packets, you name it, all on one port.
 
-**For the full details and a demo, check out [httptoolkit.tech](https://httptoolkit.tech)**.
+---
+
+<p align="center">
+ :arrow_right: Find out more and try it out now at <strong><a href="https://httptoolkit.tech">httptoolkit.tech</a></strong> :arrow_left:
+</p>
+
+---
 
 ## Send your feedback
 
