@@ -5,6 +5,14 @@
 
 You can use it to intercept, inspect & rewrite HTTP(S) traffic, from everything to anywhere. Explore Android app traffic, mock requests between your microservices, and x-ray your browser traffic to debug, understand and test anything.
 
+---
+
+<p align="center">
+ :arrow_right: Find out more and try it out now at <strong><a href="https://httptoolkit.tech">httptoolkit.tech</a></strong> :arrow_left:
+</p>
+
+---
+
 ## Features
 
 With HTTP Toolkit, you can:
@@ -17,14 +25,6 @@ With HTTP Toolkit, you can:
 * Breakpoint live requests or responses, to **rewrite HTTP traffic on the fly**.
 * **Mock endpoints or servers**, with a flexible rule configurations to match and handle requests automatically, to send responses, inject failures & timeouts, or transparently redirect requests elsewhere.
 * Intercept _any_ HTTP traffic: **HTTP Tookit is a transparent HTTP proxy**, and can intercept plain HTTP, encrypted HTTP(S), HTTP/2, proxy requests, direct requests, manually redirected packets, you name it, all on one port.
-
----
-
-<p align="center">
- :arrow_right: Find out more and try it out now at <strong><a href="https://httptoolkit.tech">httptoolkit.tech</a></strong> :arrow_left:
-</p>
-
----
 
 [![An HTTP Toolkit demo video](./demo.apng)](https://httptoolkit.tech)
 
