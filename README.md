@@ -26,6 +26,16 @@ With HTTP Toolkit, you can:
 
 ---
 
+[![An HTTP Toolkit demo video](./demo.apng)](https://httptoolkit.tech)
+
+---
+
+<p align="center">
+ :arrow_right: Find out more and try it out now at <strong><a href="https://httptoolkit.tech">httptoolkit.tech</a></strong> :arrow_left:
+</p>
+
+---
+
 ## Send your feedback
 
 HTTP Toolkit is driven by its community of users and their feedback. Have some ideas, problems or questions about HTTP Toolkit? **[Post an issue](https://github.com/httptoolkit/httptoolkit/issues/new) in this repo**. If that's too public, you can also [send a message directly](https://httptoolkit.tech/contact).
