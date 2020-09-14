@@ -34,7 +34,7 @@ Would you like to help design the perfect HTTP debugging tool? Take a look throu
 
 ## Contributing directly
 
-Want to go further, and make changes directly? There's a lot you can get involved with, and **all contributors get free HTTP Toolkit Pro** (more background on this [over here](https://httptoolkit.tech/blog/free-as-in-beer)).
+Want to go further, to build & contribute the HTTP Toolkit features & fixes you're looking for yourself? HTTP Toolkit is 100% open source, so you can help shape it directly! **All contributors get free HTTP Toolkit Pro** (more background on this [over here](https://httptoolkit.tech/blog/free-as-in-beer)).
 
 That includes code contributions, but documentation improvements, article & blog posts elsewhere about the project, bug & security reports, and anything else that helps drive HTTP Toolkit forwards. The goal is to reward anything that helps drive HTTP Toolkit development or bring it to new people. To claim your Pro account, [get in touch](https://httptoolkit.tech/contact) once you've made your contribution, with the email you'd like associated with your account. Feel free to get in touch with any other questions about this too.
 
