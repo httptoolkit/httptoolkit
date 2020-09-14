@@ -50,6 +50,7 @@ The main repos you might be interested in are:
 * [HTTP Toolkit UI](https://github.com/httptoolkit/httptoolkit-ui) - the core of the product, a TypeScript + React app that powers most of the functionality you use, except for things that can't be done in a web page (i.e. starting a proxy, and setting up client interception).
 * [HTTP Toolkit Server](https://github.com/httptoolkit/httptoolkit-server) - the backend of the product, a TypeScript + node.js server that does the things the UI can't do: starting a proxy, and setting up client interception.
 * [Mockttp](https://github.com/httptoolkit/mockttp) - the HTTP(S) proxy itself, and all low-level logic around that, as a standalone TypeScript library. Used in HTTP Toolkit for traffic interception, but also usable standalone as a testing tool, or as a programmatically controllable intercepting HTTP(S) proxy.
+* [HTTP Toolkit for Android](https://github.com/httptoolkit/httptoolkit-android) - the Android app, a native Kotlin + Java app that manages certificate trust & enforces HTTP interception on Android devices.
 * [HTTP Toolkit Desktop](https://github.com/httptoolkit/httptoolkit-desktop) - a TypeScript + Electron wrapper, which combines the UI & the server and builds convenient per-platform installers.
 
 Each repo has its own readme explaining how to get set up and outlining how the component works. Check out the issues in this repo for ideas, feel free to [ask questions](https://httptoolkit.tech/contact), and dive in!
