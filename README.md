@@ -8,7 +8,11 @@ You can use it to intercept, inspect & rewrite HTTP(S) traffic, from everything 
 ---
 
 <p align="center">
- :arrow_right: Find out more and try it out now at <strong><a href="https://httptoolkit.tech">httptoolkit.tech</a></strong> :arrow_left:
+ :arrow_right: <strong>Find out more and try it out now at <a href="https://httptoolkit.tech">httptoolkit.tech</a></strong> :arrow_left:
+</p>
+
+<p align="center">
+ <em>Want to give feedback, or get help? <a href="https://github.com/httptoolkit/httptoolkit/issues/new">File an issue</a>.</em>
 </p>
 
 ---
