@@ -1,7 +1,7 @@
 # HTTP Toolkit
 [![Follow @httptoolkit on Twitter](https://img.shields.io/twitter/follow/httptoolkit?color=%234c1&style=flat-square)](https://twitter.com/httptoolkit) [![GitHub Org's stars](https://img.shields.io/github/stars/httptoolkit?label=org%20stars&style=flat-square)](https://github.com/httptoolkit/) [![Desktop downloads counter](https://img.shields.io/github/downloads/httptoolkit/httptoolkit-desktop/total?style=flat-square)](https://github.com/httptoolkit/httptoolkit-desktop/releases/latest) [![Open feature suggestions](https://img.shields.io/github/issues/httptoolkit/httptoolkit?label=feature%20suggestions&style=flat-square)](https://github.com/httptoolkit/httptoolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) ![100% open-source](https://img.shields.io/badge/open--source-100%25-%23999?style=flat-square)
 
-[HTTP Toolkit](https://httptoolkit.tech) is a tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac.
+[HTTP Toolkit](https://httptoolkit.tech) is an open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac.
 
 You can use it to intercept, inspect & rewrite HTTP(S) traffic, from everything to anywhere. Explore Android app traffic, mock requests between your microservices, and x-ray your browser traffic to debug, understand and test anything.
 
@@ -13,6 +13,10 @@ You can use it to intercept, inspect & rewrite HTTP(S) traffic, from everything 
 
 <p align="center">
  <em>Want to give feedback, or get help? <a href="https://github.com/httptoolkit/httptoolkit/issues/new">File an issue</a>.</em>
+</p>
+
+<p align="center">
+ <em>Want to contribute to HTTP Toolkit's development yourself? <a href="https://github.com/httptoolkit/httptoolkit/#contributing-directly">Dive in</a>.</em>
 </p>
 
 ---
