@@ -1,0 +1,70 @@
+name: "🐛 Bug report"
+description: "Report a bug. Please provide enough information that we can reproduce the problem."
+title: "[Bug]: "
+labels: ["bug"]
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to report bugs! Your feedback is a really important part of maintaining
+      and improving HTTP Toolkit.
+
+      That said **please do a quick search of the existing issues first** at https://github.com/httptoolkit/feedback/issues.
+      Somebody may have reported this already, and if you're lucky they might even have shared a solution already that
+      to workaround your issue right away.
+- type: textarea
+  attributes:
+    label: Repro steps
+    description: |
+      What were you doing when this bug happened? Detailed information helps maintainers reproduce and fix bugs.
+    placeholder: |
+      Example bug report:
+      1. Open the desktop app
+      2. Click 'Existing Terminal' on the Intercept page
+      3. An error appears: "HTTP Toolkit crashed"
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: How often does this bug happen?
+    description: |
+      Following the repro steps above, how easily are you able to reproduce this bug?
+    options:
+      - Every time
+      - Often
+      - Sometimes
+      - Only once
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: The desktop OS you're using
+    description: |
+      The operating system type and version you're using on your computer when you hit this bug:
+    placeholder: |
+      e.g. Windows 10, MacOS 12, or Ubuntu 22.04
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Details of other apps/devices
+    description: |
+      If the issue involves another device or application, please share the details of those:
+    placeholder: |
+      For example:
+      - Using an iPhone 7 with iOS 15.6
+      - Using the Android app "My Example App"
+      - Intercepting Java v8
+      - Intercepting Chrome v100 visiting website https://example.com
+- type: textarea
+  attributes:
+    label: Error screenshot
+    description: |
+      If there are any errors shown, please attach them here:
+    placeholder: |
+      (Drag a file into this field, or copy and paste an image, to attach it to this issue)
+- type: textarea
+  attributes:
+    label: Any other info?
+    description: |
+      If you have any other details that might help us reproduce the issue and fix it, please add them here:
