@@ -2,4 +2,8 @@ blank_issues_enabled: false
 contact_links:
     - name: 🆘 Looking for help?
       url: https://stackoverflow.com/questions/ask?tags=http-toolkit
-      about: This issue tracker is for user feedback, like feature suggestions & bug reports. If you're looking for support using HTTP Toolkit, please open a question on Stack Overflow with the "http-toolkit" tag.
+      about: >
+        This issue tracker is for user feedback, like feature suggestions and bug reports.
+
+
+        If you're looking for support using HTTP Toolkit, click here to post a question on Stack Overflow under the "http-toolkit" tag.
