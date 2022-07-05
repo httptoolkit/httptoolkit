@@ -6,13 +6,16 @@ body:
 - type: markdown
   attributes:
     value: >
-      Thanks for taking the time to report bugs! Your feedback is a really important part of maintaining
-      and improving HTTP Toolkit.
+      Thanks for taking the time to report bugs! Your feedback is a really important part of
+      maintaining and improving HTTP Toolkit.
 
 
-      That said **please do a quick search of the existing issues first** at https://github.com/httptoolkit/feedback/issues.
-      Somebody may have reported this already, and if you're lucky they might even have shared a solution already that
-      to workaround your issue right away.
+      That said **please do a quick search of the existing issues first** at
+      https://github.com/httptoolkit/feedback/issues. Somebody may have reported this already, and if
+      you're lucky they might even have shared a solution already, so you can workaround your issue
+      right away.
+
+      ---
 - type: textarea
   attributes:
     label: Repro steps
@@ -63,7 +66,7 @@ body:
     description: |
       If there are any errors shown, please attach them here:
     placeholder: |
-      (Drag a file into this field, or copy and paste an image, to attach it to this issue)
+      To attach a file to this issue, drag it onto this field, paste an image, or select this field and click the bar at the bottom.
 - type: textarea
   attributes:
     label: Any other info?
