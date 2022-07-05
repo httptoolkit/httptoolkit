@@ -2,8 +2,11 @@ blank_issues_enabled: false
 contact_links:
     - name: 🆘 Looking for help?
       url: https://stackoverflow.com/questions/ask?tags=http-toolkit
-      about: >
+      about: |
         This issue tracker is for user feedback, like feature suggestions and bug reports.
 
-
         If you're looking for support using HTTP Toolkit, click here to post a question on Stack Overflow under the "http-toolkit" tag.
+    - name: 🗳️ Vote on existing issues
+      url: https://github.com/httptoolkit/httptoolkit/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
+      about: |
+        Click here to explore and vote on the existing feature suggestions, to help decide where HTTP Toolkit goes next.
