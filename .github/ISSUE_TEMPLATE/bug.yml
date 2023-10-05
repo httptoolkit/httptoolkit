@@ -9,6 +9,7 @@ body:
       Thanks for taking the time to report bugs! Your feedback is a really important part of
       maintaining and improving HTTP Toolkit.
 
+
       ---
 - type: checkboxes
   attributes:
