@@ -9,14 +9,16 @@ body:
       Thanks for taking the time to report bugs! Your feedback is a really important part of
       maintaining and improving HTTP Toolkit.
 
-
-      That said **please do a quick search of the existing issues first** at
-      https://github.com/httptoolkit/feedback/issues. Somebody may have reported this already, and if
-      you're lucky they might even have shared a solution already, so you can workaround your issue
-      right away.
-
-
       ---
+- type: checkboxes
+  attributes:
+    label: Has this been reported before?
+    description: **Please do a quick search of the existing issues first [here](https://github.com/httptoolkit/httptoolkit/issues?q=is%3Aissue)**.
+      Somebody may have reported this bug before, and may have even shared a solution already, in which case you'll be
+      able to fix your problem instantly.
+    options:
+      - label: I have checked for existing reports of this issue
+        required: true
 - type: textarea
   attributes:
     label: Repro steps
