@@ -13,7 +13,8 @@ body:
 - type: checkboxes
   attributes:
     label: Has this been reported before?
-    description: **Please do a quick search of the existing issues first [here](https://github.com/httptoolkit/httptoolkit/issues?q=is%3Aissue)**.
+    description: >
+      **Please do a quick search of the existing issues first [here](https://github.com/httptoolkit/httptoolkit/issues?q=is%3Aissue)**.
       Somebody may have reported this bug before, and may have even shared a solution already, in which case you'll be
       able to fix your problem instantly.
     options:
