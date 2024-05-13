@@ -28,10 +28,10 @@ With HTTP Toolkit, you can:
 * Instantly intercept browsers, most backend & scripting languages (from Node.js to PHP), Android devices, Electron apps and more with **one-click setup**.
 * Collect interesting traffic without intercepting everything on your whole machine, so there's no extra noise and no side-effects - **just the traffic you care about**.
 * Inspect the full headers & body for every request & response from every client, to immediately see what's really being sent & received on the wire.
-* **Easily understand collected HTTP traffic**, with inline documentation for all standard headers & responses statuses, plus body decoding, highlighting, folding, and other niceties, powered by the same internals as Visual Studio Code.
-* Quickly find the data you care about, with exchanges highlighted by client and tagged by category (images, JSON responses, errors), and free-text & structured filtering across all request & response data.
+* **Easily understand collected HTTP traffic**, with inline documentation for all standard headers & response statuses, plus body decoding, highlighting, folding, and other niceties, powered by the same internals as Visual Studio Code.
+* Quickly find the data you care about, with exchanges highlighted by the type of client and tagged by category (images, JSON responses, errors), and free-text & structured filtering across all request & response data.
 * Breakpoint live requests or responses, to **rewrite HTTP traffic on the fly**.
-* **Mock endpoints or servers**, with a flexible rule configurations to match and handle requests automatically, to send responses, inject failures & timeouts, or transparently redirect requests elsewhere.
+* **Mock endpoints or servers**, with flexible rule configurations to match and handle requests automatically, to send responses, inject failures & timeouts, or transparently redirect requests elsewhere.
 * Intercept _any_ HTTP traffic: **HTTP Toolkit is a transparent HTTP proxy**, and can intercept plain HTTP, encrypted HTTPS, WebSockets, HTTP/2, proxy requests, direct requests, manually redirected packets, you name it, all on one port.
 
 [![An HTTP Toolkit demo video](./demo.apng)](https://httptoolkit.com)
